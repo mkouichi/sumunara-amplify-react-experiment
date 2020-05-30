@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-sumunara-dev-111746-authRole",
+            "UnauthRoleArn": "arn:aws:iam::679251740796:role/amplify-sumunara-dev-111746-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::679251740796:role/amplify-sumunara-dev-111746-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-sumunara-dev-111746-deployment",
+            "UnauthRoleName": "amplify-sumunara-dev-111746-unauthRole",
+            "StackName": "amplify-sumunara-dev-111746",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:679251740796:stack/amplify-sumunara-dev-111746/cbfeedc0-a21b-11ea-a91c-0a0bafe12bca",
+            "AmplifyAppId": "dgct6s9bb6owj"
+        }
+    }
+}
